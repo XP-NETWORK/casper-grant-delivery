@@ -17,16 +17,17 @@
 10. [Bridge contract tests](https://github.com/XP-NETWORK/xp-casper-bridge-client/blob/main/tests/bridge.ts)
 
 ***
-# TODO:
 ## Milestone 2 - Testing & Documentation
 
-1. Deployment of the smart contracts on the chain Testnet.
-2. Adding the deployed contracts to the JS library
-3. Developing the logic in the bridge validators
-4. Adding the chain Testnet to the nft-indexer
-5. A testing tutorial in markdown accompanied with typescript examples of usage
+1. [Deployment of the smart contracts on the chain Testnet.](./2.Milestone.md#1-deployment-of-the-smart-contracts-on-testnet)
+2. [Adding the deployed contracts to the JS library](./2.Milestone.md#2-adding-the-deployed-contracts-to-the-js-library)
+3. [Developing the logic in the bridge validators](./2.Milestone.md#3-developing-the-logic-in-the-bridge-validators)
+4. [Adding the chain Testnet to the nft-indexer](./2.Milestone.md#4-adding-the-chain-testnet-to-the-nft-indexer)
+5. [A testing tutorial in markdown accompanied with typescript examples of usage](./2.Milestone.md#5-a-testing-tutorial-in-markdown-accompanied-with-typescript-examples-of-usage)
 
 ***
+
+# TODO:
 ## Milestone 3 - UI & Mainnet integration
 
 1. Adding the chain to the bridge UI
